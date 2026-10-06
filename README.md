@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-- 💻 I build mobile and web applications
+- 💻 I build web and mobile applications
 - 🌱 Currently learning and improving my skills through real projects
 - 📫 Feel free to reach out for collaboration or questions
 - 📍 Based in Malaysia
